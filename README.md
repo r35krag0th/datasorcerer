@@ -51,7 +51,7 @@ We have an item with the following stats and the weights as described above:
 | **+3 Ranks** Upheaval            | 0.900     |
 | 80 Dexterity                     | 0.000     |
 | 10% Cooldown Reduction           | 0.800     | 
-| 9.5% Total Armor                 | 0.70      |
+| 9.5% Total Armor                 | 0.700     |
 | **TOTAL**                        | **3.217** |
 
 So this example item will have a final value of **3.217**.
