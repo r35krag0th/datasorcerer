@@ -5,6 +5,7 @@ go 1.20
 require (
 	github.com/danielgtaylor/huma v1.14.1
 	github.com/google/uuid v1.1.2
+	github.com/stretchr/testify v1.8.4
 	go.uber.org/zap v1.25.0
 	gorm.io/driver/sqlite v1.5.3
 	gorm.io/gorm v1.25.4
@@ -22,7 +23,7 @@ require (
 	github.com/fxamacker/cbor/v2 v2.4.0 // indirect
 	github.com/go-chi/chi v4.1.2+incompatible // indirect
 	github.com/goccy/go-yaml v1.9.5 // indirect
-	github.com/graphql-go/graphql v0.8.0 // indirect
+	github.com/graphql-go/graphql v0.8.1 // indirect
 	github.com/graphql-go/handler v0.2.3 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
@@ -44,8 +45,6 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/spf13/viper v1.10.1 // indirect
-	github.com/stretchr/objx v0.5.0 // indirect
-	github.com/stretchr/testify v1.8.4 // indirect
 	github.com/subosito/gotenv v1.2.0 // indirect
 	github.com/tent/http-link-go v0.0.0-20130702225549-ac974c61c2f9 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
